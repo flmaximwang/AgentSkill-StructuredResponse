@@ -1,6 +1,6 @@
 ---
 name: respond-to-questions
-description: Respond to user questions with structured behavior and summary. Use this skill when you receive any questions or challenges.
+description: Respond to user questions with structured behavior and summary. Use this skill when you receive any questions or challenges. Use this skill when the user asks about "How", "What", "Why", "如何", "为什么", etc.
 ---
 
 # Respond to questions
